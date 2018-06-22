@@ -4,5 +4,8 @@ addElementToBeginningOfArray = ["Protein Bar", ...chocolateBars];
 
 destructivelyAddElementToBeginningOfArray = ["Sugar Bar", ...addElementToBeginningOfArray];
 
+function accessElementInArray() {
+  
+}
 
 
